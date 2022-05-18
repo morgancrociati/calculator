@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cromorgP1YIQ/cromorgP1YIQ/_apis/build/status/morgancrociati.calculator?branchName=master)](https://dev.azure.com/cromorgP1YIQ/cromorgP1YIQ/_build/latest?definitionId=1&branchName=master)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
